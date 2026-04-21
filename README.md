@@ -10,3 +10,6 @@ Desarrollo punto 2 aqui se escoje el GEB Y se hace el desarrollo con los datos d
 
 Archivo de metricas geb: https://1drv.ms/x/c/c126e194edd8ccdd/IQCpz0JyMVMpT7qNQXH9N-xDASdOf_Dgnh19dVg782ZyH1k?e=gUvRSK
 
+Video de analisis: https://youtu.be/CHjFCMmdXaY
+
+
