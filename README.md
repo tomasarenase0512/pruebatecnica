@@ -7,3 +7,6 @@
 -Los precios y valores fundamentales se toman de yahoo finance , se aplica el modelo en python
 
 Desarrollo punto 2 aqui se escoje el GEB Y se hace el desarrollo con los datos disponibles de su calificacion
+
+Archivo de metricas geb: https://1drv.ms/x/c/c126e194edd8ccdd/IQCpz0JyMVMpT7qNQXH9N-xDASdOf_Dgnh19dVg782ZyH1k?e=gUvRSK
+
