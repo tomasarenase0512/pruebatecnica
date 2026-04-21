@@ -1,4 +1,4 @@
-# Desarrollo del punto 1
+# Desarrollo Prueba tecnica Estructurador
 
 ## La idea central del Modelo KMV Es aplicar conceptos del mercado de valores como lo es la valoracion de opciones para calcular la probabilidad de que una empresa entre en incumplimiento.
 
